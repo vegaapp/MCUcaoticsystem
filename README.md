@@ -1,5 +1,5 @@
 # MCUcaoticsystem
-Show Implement caotic Lorenz, Rossler and Chan un Arduino Mega 2560
+Show Implement caotic Lorenz, Rossler and Chan oscillator in Arduino Mega 2560
 
 In arduino code, call funtion in main loop:
 
